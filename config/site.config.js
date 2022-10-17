@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/R学习书籍', '/神经科学书籍','/生理学书籍','/电影'],
+  protectedRoutes: ['/R学习书籍', '/神经科学书籍','/生理学书籍','/电影','/研究生学习'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:cheetahsite@163.com',
